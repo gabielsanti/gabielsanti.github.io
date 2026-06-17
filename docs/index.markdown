@@ -14,7 +14,7 @@ I am particularly interested in Philippine Assassin bugs (Reduviidae) and other 
 
 - [About Me](/about-me/)
 - [Research](/research/)
-- [Teaching](/teaching/)
+- [Blog Posts](/blogs/)
 
 ## Contact
 
