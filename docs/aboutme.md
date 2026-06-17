@@ -14,9 +14,9 @@ I am particularly interested in Philippine Assassin bugs (Reduviidae) and other 
 
 ### Education
 
-**University of Oxford**
-- DPhil in Public Policy (2024–present)
-- Clarendon Scholar
+**National Chung Hsing University**
+- International Master's Program in Agriculture (Incoming)
+- NCHU Scholarship
 
 **Prior Education**
 - Academic and Laboratory Exchange, National Chung Hsing University (2024)
