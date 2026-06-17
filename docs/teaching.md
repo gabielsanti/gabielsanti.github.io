@@ -1,12 +1,14 @@
 ---
-layout: default
-title: Teaching
-permalink: /teaching/
+layout: page
+title: Blog Posts
+permalink: /blog/
 ---
 
-## Teaching Experience
-
-### Previous Teaching
-
-**General Biology Head Tutor**
-- Ateneo de Davao University SHS Peer Tutorials Program (2020-2021)
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}
+</ul>
