@@ -6,11 +6,11 @@ permalink: /about-me/
 
 ## About me
 
-I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar.
+I am a B.Sc. in Biology Graduate, Major in Systematics (Insect Systematics) at the University of the Philippines.
 
-My research focuses on development, labor, gender, and political economy.
+My research focuses on insect morphology, taxonomy, systematics, and distribution.
 
-I am particularly interested in how social norms affect female labor force participation, household decision-making, and well-being in developing countries.
+I am particularly interested in Philippine Assassin bugs (Reduviidae) and other members of Hemiptera: Heteroptera.
 
 ### Education
 
@@ -19,13 +19,14 @@ I am particularly interested in how social norms affect female labor force parti
 - Clarendon Scholar
 
 **Prior Education**
-- M.Res. in Economics, Paris School of Economics (2023), High Honors
-- Summer Exchange, London School of Economics (2018)
-- B.Sc. in Economics, Universitas Gadjah Mada (2020), Valedictorian
+- Academic and Laboratory Exchange, National Chung Hsing University (2024)
+- B.Sc. in Biology, University of the Philippines (2026)
 
 ### Experience
-- Pre-Doctoral Fellow - NHH FAIR, Norway (2023–24)
-- Research Assistant - Blavatnik School of Government, University of Oxford (2022)
-- Research Assistant - Asian Development Bank (2021)
-- Evaluation Specialist - Coordinating Ministry for Economic Affairs (2020)
-- Consultant - Presidential Staff Office (2020)
+- Intern - NCHU Insect Collections Museum (2024)
+- Intern - NCHU Systematics and Morphology Laboratory (2024)
+- Laboratory Exchange - NCHU Molecular Biology and Systematics Laboratory (2024)
+- Volunteer - UPLB Cave Ecology Laboratory (2023)
+- Volunteer - UPLB Museum of Natural History Mycological Herbarium (2023)
+- Councilor and Community Rights and Welfare (CRAW) Head - College of Arts and Sciences Freshman Council (2022-2023)
+- Freshman Representative & Students’ Rights and Welfare (STRAW) Head - College of Arts and Sciences Freshman Council (2021-2022)
