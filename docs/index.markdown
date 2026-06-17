@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Jesita Wida Ajani
+title: Ian Gabriel Santillan
 permalink: /
 ---
 
-I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar.
+I am a B.Sc. in Biology Graduate, Major in Systematics (Insect Systematics) at the University of the Philippines.
 
-My research focuses on development, labor, gender, and political economy. 
+My research focuses on insect morphology, taxonomy, systematics, and distribution.
 
-I am particularly interested in how social norms shape female labor force participation, household decision-making, 
-
-and well-being in developing countries.
+I am particularly interested in Philippine Assassin bugs (Reduviidae) and other members of Hemiptera: Heteroptera.
 
 ## Pages
 
@@ -20,5 +18,5 @@ and well-being in developing countries.
 
 ## Contact
 
-Email: [jesita.ajani@bsg.ox.ac.uk](mailto:jesita.ajani@bsg.ox.ac.uk)  
+Email: [icsantillan@up.edu.ph](mailto:icsantillan@up.edu.ph)  
 CV: [Download full CV (PDF)](/assets/files/CV_20262.pdf)
